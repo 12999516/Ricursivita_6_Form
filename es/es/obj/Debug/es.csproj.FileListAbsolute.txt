@@ -9,3 +9,14 @@ C:\Users\sebas\Desktop\Ricursività_6_Form\es\es\obj\Debug\es.csproj.CoreCompile
 C:\Users\sebas\Desktop\Ricursività_6_Form\es\es\obj\Debug\es.exe
 C:\Users\sebas\Desktop\Ricursività_6_Form\es\es\obj\Debug\es.pdb
 C:\Users\sebas\Desktop\Ricursività_6_Form\es\es\obj\Debug\es.exe.config
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\bin\Debug\es.exe.config
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\bin\Debug\es.exe
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\bin\Debug\es.pdb
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.exe.config
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.Form1.resources
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.Properties.Resources.resources
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.exe
+C:\Users\sebas\Desktop\Ricursività_6_Form\Ricursivita_6_Form\es\es\obj\Debug\es.pdb
